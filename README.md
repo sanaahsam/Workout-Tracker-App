@@ -1,21 +1,21 @@
-Workout Tracker App
+<h1>Workout Tracker App</h1>
 
 Welcome to the Workout Tracker App! This MERN stack project empowers users to track and manage their workout routines effortlessly. Whether you're a fitness enthusiast or a beginner, this application provides a user-friendly interface for logging exercises, sets, and reps. The app utilizes React for the frontend, Node.js and Express for the backend, and MongoDB for data storage.
-Features
+<h2>Features</h2>
 
     User Authentication: Securely sign up and log in to access personalized workout tracking features.
     Exercise Log: Add, edit, and delete exercises with ease. Record exercise names, sets, and reps.
     Flexible Workouts: Customize your workout routine by adding as many exercises as you like.
 
-Technologies Used
+<h2>Technologies Used</h2>
 
     Frontend: React
     Backend: Node.js, Express
     Database: MongoDB
     Authentication: JSON Web Tokens (JWT)
 
-Getting Started
-Clone the Repository
+# Getting Started
+# Clone the Repository
 
 bash
 
