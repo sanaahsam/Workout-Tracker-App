@@ -19,7 +19,7 @@ Welcome to the Workout Tracker App! This MERN stack project empowers users to tr
 
 bash
 
-git clone https://github.com/yourusername/workout-tracker.git
+git clone https://github.com/sanaahsam/WorkoutApp.git
 cd workout-tracker
 
 Install Dependencies
